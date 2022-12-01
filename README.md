@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋😆
+I'm Takumi Koshizuka.  
+- 🏫 I'm university student which learning business administration.  
+- 🌱 I’m currently learning Ruby on Rails, JavaScript.
+
+<!-- リポジトリステータス -->
+[![Takumi Koshizuka's github stats](https://github-readme-stats.vercel.app/api?username=54chair&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/54chair/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=54chair&layout=compact&theme=tokyonight)](https://github.com/54chair/)
+
 
 <!--
 **54chair/54chair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
