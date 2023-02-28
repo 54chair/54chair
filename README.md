@@ -1,7 +1,7 @@
 ### Hi there 👋😆
 I'm Takumi Koshizuka.  
 - 🏫 I'm university student which learning business administration.  
-- 🌱 I’m currently learning Ruby on Rails, JavaScript.
+- 🌱 I’m currently learning Ruby on Rails, React.
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=54chair&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
